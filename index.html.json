@@ -23,7 +23,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 8742000000
+              "duration": 10085000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "informar meus dados",
             "result": {
               "status": "passed",
-              "duration": 3846000000
+              "duration": 4078000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "devo ser cadastrado com sucesso",
             "result": {
               "status": "passed",
-              "duration": 6559000000
+              "duration": 7626000000
             }
           }
         ]
@@ -84,7 +84,7 @@
             "name": "que o site não possua registros",
             "result": {
               "status": "passed",
-              "duration": 19844000000
+              "duration": 22813000000
             }
           },
           {
@@ -94,7 +94,7 @@
             "name": "acessar a listagem",
             "result": {
               "status": "passed",
-              "duration": 2704000000
+              "duration": 2789000000
             }
           },
           {
@@ -104,7 +104,7 @@
             "name": "devo visualizar a listagem vazia",
             "result": {
               "status": "passed",
-              "duration": 34000000
+              "duration": 47000000
             }
           }
         ]
@@ -124,7 +124,7 @@
             "name": "que o site possua apenas um registro",
             "result": {
               "status": "passed",
-              "duration": 164000000
+              "duration": 378000000
             }
           },
           {
@@ -134,7 +134,7 @@
             "name": "acessar a listagem",
             "result": {
               "status": "passed",
-              "duration": 2408000000
+              "duration": 2630000000
             }
           },
           {
@@ -144,7 +144,7 @@
             "name": "devo visualizar com apenas um registro",
             "result": {
               "status": "passed",
-              "duration": 56000000
+              "duration": 107000000
             }
           }
         ]
